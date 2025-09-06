@@ -710,8 +710,8 @@ itemedit:
         - '&e[namespacedkey] &bquale overlay usare'
         - '&bGli overlay si definiscono nei texture pack, l''unico vanilla è minecraft:misc/pumpkinblur'
       params: "[namespacedkey]"
-      feedback: "&aL\'overlay della camera è stato aggiornato"
-      feedback-reset: "&aL\'overlay della camera è stato rimosso"
+      feedback: "&aL'overlay della camera è stato aggiornato"
+      feedback-reset: "&aL'overlay della camera è stato rimosso"
       invalid-namespacedkey: "&cNamespacedkey &6%value% &cnon è valido"
     clear:
       description:
